@@ -1,5 +1,5 @@
 # Reactive Form Validations using Svelte
-Simpe form validations done using Svelte.js
+Simple form validations done using Svelte.js
 This idea is taken from fireship.io youtube tutorials.
 
 ## Screenshot
